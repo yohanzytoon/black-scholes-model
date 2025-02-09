@@ -92,13 +92,5 @@ Contributions are welcome! To contribute:
 4. **Push** to your branch (`git push origin feature-name`).
 5. Open a **Pull Request** on GitHub.
 
----
 
-## 📄 License
-This project is licensed under the **MIT License**.
-
----
-
-## 📧 Contact
-For questions or feedback, reach out via **GitHub Issues** or email at [your.email@example.com](mailto:your.email@example.com).
 
