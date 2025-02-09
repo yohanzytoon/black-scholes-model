@@ -1,4 +1,4 @@
-# Enhanced Black-Scholes Option Pricing Model
+# Black-Scholes Option Pricing Model
 
 ## 📌 Overview
 This interactive application calculates European call and put option prices using the **Black-Scholes model** and computes the option Greeks. It also provides:
